@@ -1,5 +1,9 @@
 {
     "coinbase_tags": {
+        "/poolNusa/": {
+            "name": "Nusa",
+            "link": "https://pool.taobot.org:8443/"
+        },
         "/poolTaobot/": {
             "name": "Taobot",
             "link": "https://pool.taobot.org:8443/"
