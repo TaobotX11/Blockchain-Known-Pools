@@ -1,5 +1,9 @@
 {
     "coinbase_tags": {
+        "\nMiningcore": {
+            "name": "MiningCore",
+            "link": ""
+        },
         "/poolNux/": {
             "name": "Nux Pool",
             "link": "https://pool.nusacoin.org"
