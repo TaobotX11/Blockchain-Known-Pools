@@ -1,15 +1,19 @@
 {
     "coinbase_tags": {
+        "\u000eA la recherche": {
+            "name": "la recherche 🇫🇷",
+            "link": ""
+        },
         "\nMiningcore": {
             "name": "MiningCore",
             "link": ""
         },
         "/poolNux/": {
-            "name": "Nux Pool",
+            "name": "Nux Pool 🇮🇩",
             "link": "https://pool.nusacoin.org"
         },
         "/poolNusa/": {
-            "name": "Nusa Pool",
+            "name": "Nusa Pool 🇮🇩",
             "link": "https://pool.taobot.org:8443/"
         },
         "/poolTaobot/": {
