@@ -1,5 +1,9 @@
 {
     "coinbase_tags": {
+        "/poolJava/": {
+            "name": "Java 🇮🇩",
+            "link": ""
+        },{
         "\u000eA la recherche": {
             "name": "la recherche 🇫🇷",
             "link": ""
@@ -9,11 +13,11 @@
             "link": ""
         },
         "/poolNux/": {
-            "name": "Nux Pool 🇮🇩",
+            "name": "Nux 🇮🇩",
             "link": "https://pool.nusacoin.org"
         },
         "/poolNusa/": {
-            "name": "Nusa Pool 🇮🇩",
+            "name": "Nusa 🇮🇩",
             "link": "https://pool.taobot.org:8443/"
         },
         "/poolTaobot/": {
