@@ -18,11 +18,11 @@
         },
         "/poolNusa/": {
             "name": "Nusa 🇮🇩",
-            "link": "https://pool.taobot.org:8443/"
+            "link": "https://pooljava.taobot.org"
         },
         "/poolTaobot/": {
             "name": "Taobot",
-            "link": "https://pool.taobot.org:8443/"
+            "link": "https://pooljava.taobot.org"
         },
         "/svpool.com/": {
             "name": "SVpool",
