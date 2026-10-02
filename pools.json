@@ -1,5 +1,9 @@
 {
     "coinbase_tags": {
+        "/BTC-PoW-Lab/": {
+            "name": "BTC PoW Lab Pool 🇩🇪",
+            "link": "https://btcpowlab-pool.com"
+        },
         "/poolJava/": {
             "name": "Java 🇮🇩",
             "link": ""
